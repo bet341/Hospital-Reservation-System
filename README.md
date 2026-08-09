@@ -1,4 +1,4 @@
-# Halcyon General — Hospital Reservation System
+Hospital Reservation System
 
 A React + Vite web app for booking hospital appointments, with a patient-facing
 booking flow and a staff dashboard for managing doctors and reservations.
